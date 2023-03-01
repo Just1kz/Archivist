@@ -1,0 +1,231 @@
+2023-02-25 18:30:49 DEBUG TimerServiceImpl:23 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=cake, startDate=2023-02-16 20:55:59, totalTime=123123123)
+2023-02-25 18:31:06 DEBUG TimerServiceImpl:23 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=cake, startDate=2023-02-30 20:55:59, totalTime=123123123)
+2023-02-25 18:32:11 DEBUG TimerServiceImpl:23 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=cake, startDate=2023-02-30 20:55:59, totalTime=123123123)
+2023-02-25 18:34:02 DEBUG TimerServiceImpl:23 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-30 20:55:59, totalTime=9999999)
+2023-02-25 18:41:36 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-30 20:55:59, totalTime=9999999)
+2023-02-25 18:43:33 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-30 20:55:59.00, totalTime=9999999)
+2023-02-25 18:45:25 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-30T20:55:59.00, totalTime=9999999)
+2023-02-25 18:46:02 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-30T20:55:59.00, totalTime=9999999)
+2023-02-25 18:47:18 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-30T20:55:59.00, totalTime=9999999)
+2023-02-25 18:47:40 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-26T20:55:59.00, totalTime=9999999)
+2023-02-25 18:53:27 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-26T20:55:59.00, totalTime=9999999)
+2023-02-25 19:01:19 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-26T20:55:59.00, totalTime=9999999)
+2023-02-25 19:04:35 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-26 20:55:59.00, totalTime=9999999)
+2023-02-25 19:28:13 DEBUG TimerServiceImpl:30 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-26T20:55:59.00, totalTime=9999999)
+2023-02-25 19:50:49 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=bread, startDate=2023-02-26T20:55:59.00, totalTime=9999999)
+2023-02-25 21:06:55 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25 14:06:51, totalTime=3270)
+2023-02-25 21:16:10 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T14:16:06, totalTime=3557)
+2023-02-25 21:24:35 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T14:24:34, totalTime=1171)
+2023-02-25 21:25:17 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T14:25:01, totalTime=15306)
+2023-02-25 21:25:28 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T14:25:00, totalTime=27972)
+2023-02-25 21:25:35 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T14:25:02, totalTime=33536)
+2023-02-25 21:35:20 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T14:35:16, totalTime=4654)
+2023-02-25 21:35:29 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T14:35:26, totalTime=3182)
+2023-02-25 21:35:30 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T14:35:27, totalTime=3186)
+2023-02-25 21:38:59 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T14:38:49, totalTime=9395)
+2023-02-25 21:39:01 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T14:38:54, totalTime=6753)
+2023-02-25 21:39:02 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T14:38:55, totalTime=7252)
+2023-02-25 21:41:22 DEBUG ReportServiceImpl:33 - 2023-02-25T21:41:22.507093800
+2023-02-25 21:43:45 DEBUG ReportServiceImpl:33 - 2023-02-25T21:43:45.907773500
+2023-02-25 21:44:40 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T14:44:38, totalTime=1915)
+2023-02-25 21:44:42 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T14:44:38, totalTime=3986)
+2023-02-25 21:44:43 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T14:44:39, totalTime=3748)
+2023-02-25 21:49:32 DEBUG ReportServiceImpl:33 - 2023-02-25T21:49:32.844079
+2023-02-25 21:50:29 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T14:50:22, totalTime=6561)
+2023-02-25 21:50:30 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T14:50:23, totalTime=6833)
+2023-02-25 21:50:32 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T14:50:24, totalTime=8191)
+2023-02-25 21:50:34 DEBUG ReportServiceImpl:33 - 2023-02-25T21:50:34.812366900
+2023-02-25 22:12:28 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T15:12:24, totalTime=3927)
+2023-02-25 22:12:34 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T15:12:26, totalTime=8029)
+2023-02-25 22:12:35 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T15:12:24, totalTime=10885)
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T15:14:46, totalTime=9898)
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T15:14:47, totalTime=8624)
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T15:14:48, totalTime=8359)
+2023-02-25 22:16:23 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T15:16:11, totalTime=11525)
+2023-02-25 22:16:32 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T15:16:13, totalTime=19201)
+2023-02-25 22:16:33 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T15:16:12, totalTime=21044)
+2023-02-25 22:21:00 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T15:20:59, totalTime=1449)
+2023-02-25 22:21:00 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:01
+2023-02-25 22:35:54 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T15:35:46, totalTime=8273)
+2023-02-25 22:35:54 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:08
+2023-02-25 22:35:55 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T15:35:46, totalTime=8568)
+2023-02-25 22:35:55 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:08
+2023-02-25 22:35:56 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T15:35:47, totalTime=8975)
+2023-02-25 22:35:56 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:08
+2023-02-25 22:37:44 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T15:37:31, totalTime=12900)
+2023-02-25 22:37:44 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:12
+2023-02-25 22:37:48 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T15:37:31, totalTime=16471)
+2023-02-25 22:37:48 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:16
+2023-02-25 22:37:51 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T15:37:32, totalTime=18930)
+2023-02-25 22:37:51 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:18
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T15:38:41, totalTime=11315)
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:11
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T15:38:42, totalTime=11080)
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:11
+2023-02-25 22:38:55 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T15:38:43, totalTime=11859)
+2023-02-25 22:38:55 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:11
+2023-02-25 22:40:08 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T15:40:01, totalTime=6654)
+2023-02-25 22:40:08 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:06
+2023-02-25 22:44:19 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T15:44:02, totalTime=16749)
+2023-02-25 22:44:19 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:16
+2023-02-25 22:44:20 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T15:44:03, totalTime=17355)
+2023-02-25 22:44:20 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:17
+2023-02-25 22:44:22 DEBUG ReportServiceImpl:35 - 1677339862400
+2023-02-25 22:44:22 DEBUG ReportServiceImpl:36 - Sat Feb 18 22:44:22 NOVT 2023
+2023-02-25 22:56:23 DEBUG ReportServiceImpl:35 - 1677340583049
+2023-02-25 22:56:23 DEBUG ReportServiceImpl:36 - Sat Feb 18 22:56:23 NOVT 2023
+2023-02-25 23:00:51 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T16:00:44, totalTime=7484)
+2023-02-25 23:00:51 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:07
+2023-02-25 23:01:03 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T16:00:43, totalTime=19855)
+2023-02-25 23:01:03 DEBUG TimerServiceImpl:28 - 1970-01-01T00:00:19
+2023-02-25 23:01:05 DEBUG ReportServiceImpl:35 - 1677340865768
+2023-02-25 23:01:05 DEBUG ReportServiceImpl:36 - Sat Feb 18 23:01:05 NOVT 2023
+2023-02-25 23:03:30 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T16:03:07, totalTime=22212)
+2023-02-25 23:03:30 DEBUG TimerServiceImpl:28 - 00:00:22
+2023-02-25 23:03:36 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T16:03:06, totalTime=30366)
+2023-02-25 23:03:36 DEBUG TimerServiceImpl:28 - 00:00:30
+2023-02-25 23:03:38 DEBUG ReportServiceImpl:34 - 1677341018457
+2023-02-25 23:03:38 DEBUG ReportServiceImpl:35 - Sat Feb 18 23:03:38 NOVT 2023
+2023-02-25 23:08:53 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T16:08:09, totalTime=44185)
+2023-02-25 23:08:53 DEBUG TimerServiceImpl:28 - 00:00:44
+2023-02-25 23:08:55 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T16:08:11, totalTime=44403)
+2023-02-25 23:08:55 DEBUG TimerServiceImpl:28 - 00:00:44
+2023-02-25 23:08:58 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T16:08:11, totalTime=46648)
+2023-02-25 23:08:58 DEBUG TimerServiceImpl:28 - 00:00:46
+2023-02-25 23:09:01 DEBUG ReportServiceImpl:34 - 1677341341344
+2023-02-25 23:09:01 DEBUG ReportServiceImpl:35 - Sat Feb 18 23:09:01 NOVT 2023
+2023-02-25 23:11:14 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T16:10:28, totalTime=45795)
+2023-02-25 23:11:14 DEBUG TimerServiceImpl:28 - 00:00:45
+2023-02-25 23:11:19 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T16:10:30, totalTime=48971)
+2023-02-25 23:11:19 DEBUG TimerServiceImpl:28 - 00:00:48
+2023-02-25 23:11:30 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T16:10:28, totalTime=61997)
+2023-02-25 23:11:30 DEBUG TimerServiceImpl:28 - 00:01:01
+2023-02-25 23:11:33 DEBUG ReportServiceImpl:34 - 1677341493560
+2023-02-25 23:11:33 DEBUG ReportServiceImpl:35 - Sat Feb 18 23:11:33 NOVT 2023
+2023-02-25 23:13:34 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T16:13:07, totalTime=26631)
+2023-02-25 23:13:34 DEBUG TimerServiceImpl:28 - 00:00:26
+2023-02-25 23:13:39 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T16:13:08, totalTime=30994)
+2023-02-25 23:13:39 DEBUG TimerServiceImpl:28 - 00:00:30
+2023-02-25 23:13:43 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T16:13:08, totalTime=35064)
+2023-02-25 23:13:43 DEBUG TimerServiceImpl:28 - 00:00:35
+2023-02-25 23:13:45 DEBUG ReportServiceImpl:34 - 1677341625313
+2023-02-25 23:13:45 DEBUG ReportServiceImpl:35 - Sat Feb 18 23:13:45 NOVT 2023
+2023-02-25 23:20:05 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T16:19:08, totalTime=57106)
+2023-02-25 23:20:05 DEBUG TimerServiceImpl:28 - 00:00:57
+2023-02-25 23:20:19 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T16:19:10, totalTime=69445)
+2023-02-25 23:20:19 DEBUG TimerServiceImpl:28 - 00:01:09
+2023-02-25 23:20:21 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T16:19:11, totalTime=70401)
+2023-02-25 23:20:21 DEBUG TimerServiceImpl:28 - 00:01:10
+2023-02-25 23:20:27 DEBUG ReportServiceImpl:34 - 1677342027250
+2023-02-25 23:20:27 DEBUG ReportServiceImpl:35 - Sat Feb 18 23:20:27 NOVT 2023
+2023-02-25 23:23:21 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T16:22:47, totalTime=34366)
+2023-02-25 23:23:21 DEBUG TimerServiceImpl:28 - 00:00:34
+2023-02-25 23:23:22 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T16:22:48, totalTime=34123)
+2023-02-25 23:23:22 DEBUG TimerServiceImpl:28 - 00:00:34
+2023-02-25 23:23:23 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T16:22:49, totalTime=34532)
+2023-02-25 23:23:23 DEBUG TimerServiceImpl:28 - 00:00:34
+2023-02-25 23:23:29 DEBUG ReportServiceImpl:34 - 1677342209592
+2023-02-25 23:23:29 DEBUG ReportServiceImpl:35 - Sat Feb 18 23:23:29 NOVT 2023
+2023-02-25 23:25:07 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T16:25:05, totalTime=1617)
+2023-02-25 23:25:07 DEBUG TimerServiceImpl:28 - 00:00:01
+2023-02-25 23:25:40 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T16:25:38, totalTime=2674)
+2023-02-25 23:25:40 DEBUG TimerServiceImpl:28 - 00:00:02
+2023-02-25 23:25:47 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T16:25:45, totalTime=2239)
+2023-02-25 23:25:47 DEBUG TimerServiceImpl:28 - 00:00:02
+2023-02-25 23:25:55 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-25T16:25:51, totalTime=4084)
+2023-02-25 23:25:55 DEBUG TimerServiceImpl:28 - 00:00:04
+2023-02-25 23:26:04 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-25T16:26:02, totalTime=1789)
+2023-02-25 23:26:04 DEBUG TimerServiceImpl:28 - 00:00:01
+2023-02-25 23:26:09 DEBUG ReportServiceImpl:34 - 1677342369390
+2023-02-25 23:26:09 DEBUG ReportServiceImpl:35 - Sat Feb 18 23:26:09 NOVT 2023
+2023-02-26 23:18:54 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-26T16:18:39, totalTime=15156)
+2023-02-26 23:18:54 DEBUG TimerServiceImpl:28 - 00:00:15
+2023-02-26 23:18:54 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-26 23:19:05 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-26T16:18:40, totalTime=25553)
+2023-02-26 23:19:05 DEBUG TimerServiceImpl:28 - 00:00:25
+2023-02-26 23:19:05 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-26 23:20:38 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-26T16:20:24, totalTime=14373)
+2023-02-26 23:20:38 DEBUG TimerServiceImpl:28 - 00:00:14
+2023-02-26 23:20:38 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-26 23:20:40 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-26T16:20:29, totalTime=10642)
+2023-02-26 23:20:40 DEBUG TimerServiceImpl:28 - 00:00:10
+2023-02-26 23:20:40 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-26 23:20:41 DEBUG ReportServiceImpl:34 - 1677428441590
+2023-02-26 23:20:41 DEBUG ReportServiceImpl:35 - Sun Feb 19 23:20:41 NOVT 2023
+2023-02-27 17:28:10 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T10:27:41, totalTime=28595)
+2023-02-27 17:28:10 DEBUG TimerServiceImpl:28 - 00:00:28
+2023-02-27 17:28:10 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 17:28:11 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-27T10:27:42, totalTime=29712)
+2023-02-27 17:28:11 DEBUG TimerServiceImpl:28 - 00:00:29
+2023-02-27 17:28:11 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 17:28:14 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-27T10:27:42, totalTime=31930)
+2023-02-27 17:28:14 DEBUG TimerServiceImpl:28 - 00:00:31
+2023-02-27 17:28:14 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 17:28:16 DEBUG ReportServiceImpl:34 - 1677493696619
+2023-02-27 17:28:16 DEBUG ReportServiceImpl:35 - Mon Feb 20 17:28:16 NOVT 2023
+2023-02-27 18:47:36 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T11:47:25, totalTime=10756)
+2023-02-27 18:47:36 DEBUG TimerServiceImpl:28 - 00:00:10
+2023-02-27 18:47:36 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 18:47:43 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-27T11:47:29, totalTime=14747)
+2023-02-27 18:47:43 DEBUG TimerServiceImpl:28 - 00:00:14
+2023-02-27 18:47:43 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 18:48:10 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-27T11:47:45, totalTime=24892)
+2023-02-27 18:48:10 DEBUG TimerServiceImpl:28 - 00:00:24
+2023-02-27 18:48:10 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 18:48:12 DEBUG ReportServiceImpl:34 - 1677498492809
+2023-02-27 18:48:12 DEBUG ReportServiceImpl:35 - Mon Feb 20 18:48:12 NOVT 2023
+2023-02-27 21:53:16 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T14:51:54, totalTime=81766)
+2023-02-27 21:53:16 DEBUG TimerServiceImpl:28 - 00:01:21
+2023-02-27 21:53:16 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 21:53:41 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-27T14:53:24, totalTime=16408)
+2023-02-27 21:53:41 DEBUG TimerServiceImpl:28 - 00:00:16
+2023-02-27 21:53:41 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 21:53:46 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-27T14:53:25, totalTime=21297)
+2023-02-27 21:53:46 DEBUG TimerServiceImpl:28 - 00:00:21
+2023-02-27 21:53:46 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 21:54:00 DEBUG ReportServiceImpl:34 - 1677509640622
+2023-02-27 21:54:00 DEBUG ReportServiceImpl:35 - Mon Feb 20 21:54:00 NOVT 2023
+2023-02-27 22:29:59 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T15:29:42, totalTime=17011)
+2023-02-27 22:29:59 DEBUG TimerServiceImpl:28 - 00:00:17
+2023-02-27 22:30:00 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:30:07 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-27T15:29:46, totalTime=21413)
+2023-02-27 22:30:07 DEBUG TimerServiceImpl:28 - 00:00:21
+2023-02-27 22:30:07 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:30:36 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-27T15:29:49, totalTime=47414)
+2023-02-27 22:30:36 DEBUG TimerServiceImpl:28 - 00:00:47
+2023-02-27 22:30:36 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:30:39 DEBUG ReportServiceImpl:34 - 1677511839002
+2023-02-27 22:30:39 DEBUG ReportServiceImpl:35 - Mon Feb 20 22:30:39 NOVT 2023
+2023-02-27 22:38:31 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T15:38:13, totalTime=17489)
+2023-02-27 22:38:31 DEBUG TimerServiceImpl:28 - 00:00:17
+2023-02-27 22:38:31 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:38:37 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-27T15:38:14, totalTime=22357)
+2023-02-27 22:38:37 DEBUG TimerServiceImpl:28 - 00:00:22
+2023-02-27 22:38:37 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:38:43 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-27T15:38:15, totalTime=28170)
+2023-02-27 22:38:43 DEBUG TimerServiceImpl:28 - 00:00:28
+2023-02-27 22:38:43 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:38:45 DEBUG ReportServiceImpl:34 - 1677512325314
+2023-02-27 22:38:45 DEBUG ReportServiceImpl:35 - Mon Feb 20 22:38:45 NOVT 2023
+2023-02-27 22:41:39 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T15:41:30, totalTime=9666)
+2023-02-27 22:41:39 DEBUG TimerServiceImpl:28 - 00:00:09
+2023-02-27 22:41:40 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:41:42 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-27T15:41:30, totalTime=11600)
+2023-02-27 22:41:42 DEBUG TimerServiceImpl:28 - 00:00:11
+2023-02-27 22:41:42 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:41:44 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-27T15:41:31, totalTime=13056)
+2023-02-27 22:41:44 DEBUG TimerServiceImpl:28 - 00:00:13
+2023-02-27 22:41:44 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:41:47 DEBUG ReportServiceImpl:34 - 1677512507296
+2023-02-27 22:41:47 DEBUG ReportServiceImpl:35 - Mon Feb 20 22:41:47 NOVT 2023
+2023-02-27 22:44:19 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T15:44:15, totalTime=4270)
+2023-02-27 22:44:19 DEBUG TimerServiceImpl:28 - 00:00:04
+2023-02-27 22:44:19 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:44:21 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=CAKE, startDate=2023-02-27T15:44:16, totalTime=5234)
+2023-02-27 22:44:21 DEBUG TimerServiceImpl:28 - 00:00:05
+2023-02-27 22:44:21 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:44:22 DEBUG TimerServiceImpl:27 - TimerServiceImpl call method save with timerDto = TimerDto(typeObject=STAKE, startDate=2023-02-27T15:44:17, totalTime=5719)
+2023-02-27 22:44:22 DEBUG TimerServiceImpl:28 - 00:00:05
+2023-02-27 22:44:22 DEBUG TimerServiceImpl:30 - сущность сохранена
+2023-02-27 22:44:25 DEBUG ReportServiceImpl:34 - 1677512665662
+2023-02-27 22:44:25 DEBUG ReportServiceImpl:35 - Mon Feb 20 22:44:25 NOVT 2023
